@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 1
+  lightness: 0.4265233
+  brandStrength: 0.6953405
+  brandColors:
+    - '#FFFFFE'
+    - '#FFDA1B'
+    - '#BA2229'
+    - '#193B77'
+    - '#747EA9'
+  rhythmicContrast: 1
+typography_spectrum: 0.8960574
+name: Antojos Colombianos
